@@ -12,7 +12,7 @@
 
 This project analyzes the environmental conditions of **Manesar, Gurgaon**, using real datasets. It covers:
 
-- 🌦 Climate & Rainfall (2022–2024)
+-  Climate & Rainfall (2022–2024)
 -  Water Resources & WQI
 -  Air Pollution & Waste
 -  Forest Area & Tree Cover Loss
