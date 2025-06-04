@@ -43,7 +43,7 @@ The notebook includes:
 - Visualizations for each parameter
 - Final summary & recommendations
 
- [Click here to view the notebook](./manesar_environment_analysis.ipynb)
+ [Click here to view the notebook](./EnvironmentalAnalysisOfManesarGurgaon.ipynb)
 
 ---
 
