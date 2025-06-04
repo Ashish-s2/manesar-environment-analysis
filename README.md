@@ -1,4 +1,4 @@
-#  Environmental Analysis of Manesar (Internship Project)
+#  Environmental Analysis of Manesar 
 
 **Internship Title**: Data Analytics Internship  
 **Organization**: Novanectar Pvt Ltd  
