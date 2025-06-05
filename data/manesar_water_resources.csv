@@ -1,4 +1,4 @@
-Year,Groundwater Level (m below ground),Surface Water Flow (m³/s),Reservoir Storage (%),Water Quality Index (0-100)
+Year,Groundwater Level (m)),Surface Water Flow (mÂ³/s),Reservoir Storage (%),Water Quality Index (0-100)
 2018,23.5,0.42,58,69
 2019,24.2,0.4,54,66
 2020,25,0.39,50,64
