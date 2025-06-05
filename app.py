@@ -88,7 +88,7 @@ with st.expander(" Disaster Risk Factors"):
     ax7.set_title("Disaster Risk Severity by Type")
     st.pyplot(fig7)
 
-with st.expander("👥 Socio-Economic Overview"):
+with st.expander(" Socio-Economic Overview"):
     st.markdown("Overview of current socio-economic statistics for Manesar:")
 
     # Show as table
