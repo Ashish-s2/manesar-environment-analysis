@@ -5,7 +5,7 @@
 **Internship Title**: Data Analytics Internship  
 **Organization**: Novanectar Pvt Ltd  
 **Intern**: Ashish Sahu    
-**Tools Used**: Python, Pandas, Matplotlib, Seaborn  
+**Tools Used**: Python, Pandas, Matplotlib, Seaborn, streamlit
 **Platform**: Jupyter Notebook
 
 ---
