@@ -59,7 +59,7 @@ with st.expander(" Land Use Changes"):
     st.pyplot(fig3)
 with st.expander(" Water Resources Overview"):
     fig4, ax4 = plt.subplots()
-    sns.lineplot(data=water, x='Year', y='Groundwater Level (m)', marker='o', label='Groundwater', ax=ax4)
+    sns.lineplot(data=water, x='Year', y='Groundwater Level (m below ground)', marker='o', label='Groundwater', ax=ax4)
     sns.lineplot(data=water, x='Year', y='Water Quality Index', marker='o', label='WQI', ax=ax4)
     ax4.set_title("Water Quality & Groundwater Trends")
     ax4.legend()
